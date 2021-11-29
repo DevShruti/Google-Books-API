@@ -5,4 +5,4 @@
 
 ###### 1: [Scrim to add background image](https://scrimba.com/scrim/cvN37BT8)
 
-###### 2: [Scrim to add Search Input Feild and Button to search](https://scrimba.com/scrim/cedwEaSQ)
+###### 2: [Scrim to add Search Input Field and Button to search](https://scrimba.com/scrim/cedwEaSQ)
