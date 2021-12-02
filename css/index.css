@@ -16,6 +16,7 @@ p {
   justify-content: space-between;
 }
 .imgRow {
+  size: cover;
   text-align: center;
   justify-content: space-between;
 }
