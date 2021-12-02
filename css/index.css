@@ -11,13 +11,12 @@ p {
   text-align: center;
 }
 .row {
-  padding: 40px;
+  padding: 20px;
   display: flex;
   justify-content: space-between;
 }
 .imgRow {
   text-align: center;
-  min-height: 50px;
   justify-content: space-between;
 }
 #book1,
@@ -31,4 +30,10 @@ p {
 #book9,
 #book10 {
   background-color: black;
+}
+
+#price {
+  padding: 20px;
+  display: flex;
+  text-align: center;
 }
