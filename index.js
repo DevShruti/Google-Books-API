@@ -29,11 +29,11 @@ document.getElementById('search').onclick = function(){
             titlePriceRow.className = "row titlePriceRow"
                 //title column
                 var titleDiv = document.createElement('div')
-                titleDiv.className = "col-md-8 title"
+                titleDiv.className = "col-md-12 title"
                 titlePriceRow.appendChild(titleDiv)
                 //price column
                 var priceDiv = document.createElement('div')
-                priceDiv.className = "col-md-2 col-md-offset-1 price"
+                priceDiv.className = "col-md-12  price"
                 titlePriceRow.appendChild(priceDiv)
 
                 document.getElementById(booki).appendChild(titlePriceRow)
