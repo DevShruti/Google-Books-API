@@ -5,13 +5,20 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
 }
+h1,
+p {
+  color: white;
+  text-align: center;
+}
 .row {
-  padding: 5px 0 5px 0;
+  padding: 40px;
+  display: flex;
+  justify-content: space-between;
 }
 .imgRow {
   text-align: center;
-  min-height: 225px;
-  padding-top: 10px;
+  min-height: 50px;
+  justify-content: space-between;
 }
 #book1,
 #book2,
@@ -23,6 +30,5 @@ body {
 #book8,
 #book9,
 #book10 {
-  background-color: lightgrey;
-  padding: 5rem;
+  background-color: black;
 }
