@@ -7,4 +7,4 @@
 
 ###### 2: [Scrim to add Search Input Field and Button to search](https://scrimba.com/scrim/cedwEaSQ)
 
-###### Can not make jquery work further in Scrmba. Enjoy the deployed [site.](https://google-books-api.vercel.app/)
+###### Can not make jquery work further in Scrimba. Enjoy the deployed [site.](https://google-books-api.vercel.app/)
